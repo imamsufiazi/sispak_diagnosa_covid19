@@ -31,7 +31,7 @@
                         <th scope="col" width="5%" class="text-center">No</th>
                         <th>Kode</th>
                         <th>Gejala</th>
-                        <th scope="col" width="15%" class="text-center">Kondisi</th>
+                        <th scope="col" width="20%" class="text-center">Kondisi</th>
                     </tr>
                 </thead>
                 <tbody>
